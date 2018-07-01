@@ -1,0 +1,27 @@
+_WritePin: CODE, 50 0 178
+_AnimationCompositing: CODE, 1743 0 217
+_SweepAnimation: CODE, 1456 0 287
+_WritePort: CODE, 228 0 25
+_AnimationSelector: CODE, 2874 0 39
+_ConfigureOscillator: CODE, 2748 0 4
+_SetAnimationQue: CODE, 2837 0 37
+_FadeAnimation: CODE, 3729 0 154
+_main: CODE, 276 0 841
+_RenderAnimation: CODE, 2994 0 54
+_TimerDaemon: CODE, 3463 0 117
+_FillAnimation: CODE, 3883 0 213
+_ReadPin: CODE, 3580 0 149
+_AllOffAnimation: CODE, 3048 0 93
+_InitApp: CODE, 2913 0 40
+__initialization: CODE, 19 0 28
+_TravelAnimation: CODE, 3241 0 109
+_isr: CODE, 2800 0 37
+_UARTTransmit: CODE, 2752 0 5
+_InitializeUART: CODE, 2781 0 19
+_DominatorAnimation: CODE, 1117 0 339
+_InitFrame: CODE, 1960 0 71
+_debouncedSwitch: CODE, 2953 0 41
+__fptable: CODE, 256 0 20
+_AllOnAnimation: CODE, 3141 0 100
+_ProcessLEDPWM: CODE, 3350 0 113
+Total: 3330
